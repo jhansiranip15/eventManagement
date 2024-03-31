@@ -78,7 +78,3 @@ Challenges were addressed by:
   - `200 OK`: Returns an array of events sorted by distance and date.
   - `400 Bad Request`: Invalid date format or missing parameters.
   - `500 Internal Server Error`: Failed to retrieve events.
-
----
-
-You should replace placeholders like `https://github.com/your-username/event-management-system.git` with the actual URL of your GitHub repository. Ensure that all instructions are clear and accurate to enable users to set up and run the project successfully.
